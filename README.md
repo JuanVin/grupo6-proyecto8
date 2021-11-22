@@ -13,6 +13,7 @@ Grupo 6
 -Bustos
 
 Nombre del proyecto: Zero
+
 Repositorio: https://github.com/agustinxo/grupo_8_imaginacionzero
 
 Comandos utilizados
