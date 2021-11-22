@@ -1,5 +1,20 @@
 
 
+Grupo 6
+
+-Espinoza
+
+-Vinci
+
+-Maya
+
+-Soliz
+
+-Bustos
+
+Nombre del proyecto: Zero
+Repositorio: https://github.com/agustinxo/grupo_8_imaginacionzero
+
 Comandos utilizados
 
 sequelize model:generate --name Categoria --attributes name:string  
